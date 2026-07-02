@@ -1,0 +1,6 @@
+numpy
+transformers>=4.40
+huggingface-hub>=0.23
+datasets>=2.14
+tqdm
+
